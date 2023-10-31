@@ -1,4 +1,4 @@
-package org.lessons.java;
+package org.lessons.java.gifts;
 
 public class Gift {
     private String description;

@@ -1,4 +1,6 @@
-package org.lessons.java;
+package org.lessons.java.gifts;
+
+import org.lessons.java.gifts.Gift;
 
 import java.io.File;
 import java.io.FileNotFoundException;
